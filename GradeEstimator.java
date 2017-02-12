@@ -1,3 +1,20 @@
+/////////////////////////////////////////////////////////////////////////////
+// Semester:         CS367 Spring 2017 
+// PROJECT:          p1
+// FILE:             GradeEstimator.java
+//
+// TEAM:    Team 54, null
+// Authors: (Be sure to check if programming teams are allowed)
+// Author1: Cory Van Beek, cvanbeek@wisc.edu, cvanbeek, Lecture 001
+// Author2: Tessa McChesney, tmcchesney@wisc.edu, tmcchesney, Lecture 002
+// Author3: DEVESH BRENDAN SULLIVAN, dsullivan7@wisc.edu, dsullivan7, Lecture 002
+// Author4: Yang Qu, qu28@wisc.edu, qu28, Lecture 002
+// Author5: Xuyan Wang, xuyan@wisc.edu, xuyan, Lecture 002
+// Author6: Tinghe Wang, tzhang329@wisc.edu, tzhang329, Lecture 002
+//
+//////////////////////////// 80 columns wide //////////////////////////////////
+
+
 import java.io.*;
 import java.util.Scanner;
 
@@ -6,7 +23,7 @@ import java.util.Scanner;
  * grade in the class
  * 
  * 
- * @author Cory Van Beek
+ * @author Cory Van Beek, Tessa McChesney, DEVESH BRENDAN SULLIVAN, Yang Qu, Xuyan Wang, Tinghe Wang
  *
  */
 public class GradeEstimator {
